@@ -1,2 +1,3 @@
-# MZGuard_GUI
-MZGuard IS GUI
+# MzGuard
+Open-source behavioural anti-malware for Windows  
+Maintainer: Vincenzo Chieppa
